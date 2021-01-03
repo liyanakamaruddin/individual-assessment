@@ -1,0 +1,48 @@
+a:link, a:visited
+	{
+		background-color:#F5B7B1;
+		color: :#17202A;
+		font-family: Acme;
+		padding: 10px;
+		text-align: center;
+		text-decoration: blink;
+		display: inline-block;
+		border-radius: 10px
+	}
+
+h1 
+	{
+		border: solid;
+		border-color: #4A235A;
+		border-radius: 5px
+	}
+	}
+
+h2
+	{
+		
+		border: solid;
+		border-color: #4A235A;
+		border-radius: 5px
+	}
+
+
+h3 
+	{
+		
+		border: solid;
+		border-color:#17202A;
+		border-radius: 10px
+	}
+
+h4 
+	{
+
+		border: solid;
+		border-color: #4A235A;
+		border-radius: 5px
+		color: white;
+		font-family: fantasy;
+
+
+	}
