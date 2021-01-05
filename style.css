@@ -1,3 +1,8 @@
+body 
+	{
+		background-color:#3B0B24;
+	}
+
 a:link, a:visited
 	{
 		background-color:#F5B7B1;
@@ -15,6 +20,7 @@ h1
 		border: solid;
 		border-color: #4A235A;
 		border-radius: 5px
+		
 	}
 	}
 
@@ -38,11 +44,11 @@ h3
 h4 
 	{
 
-		border: solid;
-		border-color: #4A235A;
-		border-radius: 5px
-		color: white;
-		font-family: fantasy;
+		border: double;
+		border-radius: 10px
+		border-color:white;
+		color: pink;
+		font-family: oliver;
 
 
 	}
